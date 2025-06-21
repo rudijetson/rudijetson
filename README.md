@@ -1,33 +1,31 @@
-# Hey, I'm Brandon
+# Hey, I'm Brandon 👋
 
 ## Founder of RUDI & Creator of PromptStack
 
-**Building responsible AI adoption frameworks for education and beyond.**
+**Strategist, technologist, and educator working at the intersection of AI, real estate development, and public impact.**
 
-I founded **RUDI** (Responsible Use of Digital Intelligence) to bridge cutting-edge AI capabilities with ethical, policy-grounded deployment. I also teach 80K+ people on [@hoffdigital](https://tiktok.com/@hoffdigital) how to build with AI responsibly.
+I founded **RUDI** (Responsible Use of Digital Intelligence) to help institutions adopt generative AI responsibly. I also created **PromptStack** to teach responsible prompt-driven development to 80K+ followers.
 
-### 🎯 Current Focus
-- **RUDI Initiative** - AI literacy & governance for educators and policy-makers
-- **PromptStack** - Responsible prompt-driven development tools
-- **Partnership with Warren County ESC** - Training 27 administrators on AI governance
-- **Policy Integration** - Aligning AI adoption with laws like Ohio SB 29
+### 🎯 Current Roles
+- **Founder, RUDI** - AI literacy & governance for education and public sector
+- **Intelligent Systems Partner, The Collab Group** - AI-powered real estate intelligence
+- **Creator, PromptStack** - Open-source AI development tools
+- **Creator, PropertyScope** - Compressing real estate feasibility from months to weeks
 
-### 🚀 What I'm Building
-- **AI Governance Frameworks** for K-12 and public sector
-- **Custom GPTs** for policy analysis and decision support
-- **Professional Development** curriculum on AI ethics and implementation
-- **Open-source tools** for responsible AI development
+### 🎓 Background
+- **MBA from EDHEC University** - Finance and social entrepreneurship
+- **Co-founded HBCU cooperative** (2019-2023) - Equitable collegiate supply chains
+- **Machine learning & predictive analytics** - R, SQL, decision systems
 
-### 📚 Resources
-- **Substack**: [AI insights and analysis](https://bzhoff.substack.com/)
-- **Workshops**: AI literacy for educators and administrators
-- **Policy Templates**: District-level AI committee playbooks
+### 📚 Focus Areas
+- **AI Governance** - Making complex technology actionable for public sector
+- **Real Estate Intelligence** - Zoning logic, scenario modeling, visual storytelling
+- **Educational Technology** - Training educators and administrators on AI adoption
 
 ### 📱 Connect
 - **TikTok**: [@hoffdigital](https://tiktok.com/@hoffdigital) (80K+)
-- **LinkedIn**: [hoffbrandon](https://www.linkedin.com/in/hoffbrandon/)
-- **Website**: [bzhoff.com](https://www.bzhoff.com)
+- **LinkedIn**: [hoffbrandon](https://linkedin.com/in/hoffbrandon/)
 - **Substack**: [bzhoff.substack.com](https://bzhoff.substack.com/)
-- **Email**: brandonzhoff@gmail.com
+- **Website**: [bzhoff.com](https://bzhoff.com)
 
-*"Translating AI's power into organizational capacity, responsibly."*
+*"Bridging innovation with equity, speed with integrity, vision with viability."*
