@@ -1,6 +1,6 @@
 # Hey, I'm Brandon 👋
 
-## Founder of RUDI & Creator of PromptStack
+## Founder of RUDI & Creator of Prompt-Stack
 
 **Strategist, technologist, and educator working at the intersection of AI, real estate development, and public impact.**
 
@@ -9,7 +9,7 @@ I founded **RUDI** (Responsible Use of Digital Intelligence) to help institution
 ### 🎯 Current Roles
 - **Founder, RUDI** - AI literacy & governance for education and public sector
 - **Intelligent Systems Partner, The Collab Group** - AI-powered real estate intelligence
-- **Creator, PromptStack** - Open-source AI development tools
+- **Creator, Prompt-Stack** - Open-source AI development tools
 - **Creator, PropertyScope** - Compressing real estate feasibility from months to weeks
 
 ### 🎓 Background
